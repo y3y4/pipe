@@ -19,8 +19,8 @@ package service
 import (
 	"sync"
 
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/util"
+	"pipe/model"
+	"pipe/util"
 )
 
 // Comment service.

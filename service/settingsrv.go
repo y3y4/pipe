@@ -19,8 +19,8 @@ package service
 import (
 	"sync"
 
-	"github.com/b3log/pipe/cache"
-	"github.com/b3log/pipe/model"
+	"pipe/cache"
+	"pipe/model"
 )
 
 // Setting service.

@@ -26,9 +26,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/b3log/pipe/log"
-	"github.com/b3log/pipe/util"
-	"github.com/b3log/pipe/model"
+	"pipe/log"
+	"pipe/util"
+	"pipe/model"
 )
 
 // Logger

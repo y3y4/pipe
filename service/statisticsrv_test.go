@@ -19,7 +19,7 @@ package service
 import (
 	"testing"
 
-	"github.com/b3log/pipe/model"
+	"pipe/model"
 )
 
 func TestGetAllStatistics(t *testing.T) {

@@ -20,8 +20,8 @@ package cache
 import (
 	"os"
 
-	"github.com/b3log/pipe/log"
-	"github.com/b3log/pipe/model"
+	"pipe/log"
+	"pipe/model"
 	"github.com/bluele/gcache"
 )
 

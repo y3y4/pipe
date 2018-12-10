@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/theme"
-	"github.com/b3log/pipe/util"
+	"pipe/model"
+	"pipe/theme"
+	"pipe/util"
 	"github.com/jinzhu/gorm"
 )
 

@@ -24,11 +24,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/b3log/pipe/controller/console"
-	"github.com/b3log/pipe/log"
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/theme"
-	"github.com/b3log/pipe/util"
+	"pipe/controller/console"
+	"pipe/log"
+	"pipe/model"
+	"pipe/theme"
+	"pipe/util"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 )

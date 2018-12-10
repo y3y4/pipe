@@ -25,10 +25,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/b3log/pipe/i18n"
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"pipe/i18n"
+	"pipe/model"
+	"pipe/service"
+	"pipe/util"
 	"github.com/dustin/go-humanize"
 	"github.com/gin-gonic/gin"
 )
